@@ -3,3 +3,6 @@ def add(x,y):
 
 def mutlp(x,y):
 	return (x * y)
+
+def sub(x,y):
+	return (x - y)
