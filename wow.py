@@ -9,3 +9,6 @@ def sub(x,y):
 
 def divide(x,y):
 	return( x / y)
+
+def square(x,y):
+	return (x + y) ** 2
